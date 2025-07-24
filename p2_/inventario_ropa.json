@@ -1,0 +1,14 @@
+[
+  {
+    "tipo": "Short",
+    "talla": "S",
+    "cantidad": 12,
+    "precio": 150.0
+  },
+  {
+    "tipo": "Blusa",
+    "talla": "XL",
+    "cantidad": 15,
+    "precio": 180.0
+  }
+]
